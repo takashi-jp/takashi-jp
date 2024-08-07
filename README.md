@@ -1,4 +1,4 @@
-## Master Student in NAIST, Research Student, Developer 👋
+## Master Student in NAIST, Visiting Research Student in SMU, Developer 👋
 
 こんにちは! Hi there! I'm Takashi Nakano, a master student in NAIST(Nara Institute of Science and Technology), a research student of software engineering, and a developer. Nice to meet you!
 
