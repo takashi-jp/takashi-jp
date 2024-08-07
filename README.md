@@ -1,6 +1,6 @@
-## Nice to meet you! My name is Takashi Nakano 👋
+# Nice to meet you! My name is Takashi Nakano 👋
 
-# TODO: Write!
+## TODO: Write!
 **takashi-jp/takashi-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
